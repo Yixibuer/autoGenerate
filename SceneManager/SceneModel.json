@@ -1,0 +1,7 @@
+{
+  "StepType":["mp4","kids","itv","zhiling"],
+  "StepLenth_mix": 5,
+  "StepLenth_min": 2,
+  "changefrist": true,
+  "changelast": true
+}

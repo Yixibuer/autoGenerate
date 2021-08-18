@@ -1,0 +1,52 @@
+url:
+  获取验证码接口: https://test-open-service.codemao.cn/captcha/rule
+  登录接口: https://test-internal-account-api.codemao.cn/auth/login
+  新建课程接口: https://test-codecamp-admin.codemao.cn/admin/courses/base
+  新建环节接口: https://test-codecamp-admin.codemao.cn/admin/courses/{course_id}/link
+  添加交互视频步骤到环节接口: https://test-codecamp-admin.codemao.cn/admin/courses/interactive-video/{course_id}/link/{link_id}/update
+  添加多步骤到环节接口: https://test-codecamp-admin.codemao.cn/admin/courses/{course_id}/link/{link_id}/step
+  新建课包接口: https://test-codecamp-teaching-system.codemao.cn/packages/base
+  新建章节接口: https://test-codecamp-teaching-system.codemao.cn/packages/{package_id}/chapters
+  获取章节ID接口: https://test-codecamp-teaching-system.codemao.cn/packages/{package_id}/chapters/detail-list
+  向章节内添加课程接口: https://test-codecamp-teaching-system.codemao.cn/chapters/{chapter_id}/courses
+  增加课程包商品信息配置: https://test-codecamp-marketing.codemao.cn/packages/{package_id}/commodity
+  上线课程包: https://test-codecamp-marketing.codemao.cn/packages/{package_id}/state
+  新建课期: https://test-codecamp-marketing.codemao.cn/terms
+  设置课期解锁时间: https://test-codecamp-marketing.codemao.cn/terms/{term_id}/course-unlock
+  课期排课: https://test-codecamp-marketing.codemao.cn/terms/{term_id}
+  新建班级: https://test-codecamp-marketing.codemao.cn/classes
+  获取班级ID: https://test-codecamp-marketing.codemao.cn/classes
+  订单导入接口: https://test-codecamp-admin.codemao.cn/admin/orders/import
+  获取七牛token: https://test-codecamp-app.codemao.cn/app/qiniu/token
+  获取七牛链接接口: https://upload.qiniup.com/
+
+dev_url:
+  获取验证码接口: https://dev-open-service.codemao.cn/captcha/rule
+  登录接口: https://dev-internal-account-api.codemao.cn/auth/login
+  新建课程接口: https://dev-codecamp-admin.codemao.cn/admin/courses/base
+  新建环节接口: https://dec-codecamp-admin.codemao.cn/admin/courses/{course_id}/link
+  添加交互视频步骤到环节接口: https://dev-codecamp-admin.codemao.cn/admin/courses/interactive-video/{course_id}/link/{link_id}/update
+  添加多步骤到环节接口: https://dev-codecamp-admin.codemao.cn/admin/courses/{course_id}/link/{link_id}/step
+  新建课包接口: https://dev-codecamp-teaching-system.codemao.cn/packages/base
+  新建章节接口: https://dev-codecamp-teaching-system.codemao.cn/packages/{package_id}/chapters
+  获取章节ID接口: https://dev-codecamp-teaching-system.codemao.cn/packages/{package_id}/chapters/detail-list
+  向章节内添加课程接口: https://dev-codecamp-teaching-system.codemao.cn/chapters/{chapter_id}/courses
+  增加课程包商品信息配置: https://dev-codecamp-marketing.codemao.cn/packages/{package_id}/commodity
+  上线课程包: https://dev-codecamp-marketing.codemao.cn/packages/{package_id}/state
+  新建课期: https://dev-codecamp-marketing.codemao.cn/terms
+  设置课期解锁时间: https://dev-codecamp-marketing.codemao.cn/terms/{term_id}/course-unlock
+  课期排课: https://dev-codecamp-marketing.codemao.cn/terms/{term_id}
+  新建班级: https://dev-codecamp-marketing.codemao.cn/classes
+  获取班级ID: https://dev-codecamp-marketing.codemao.cn/classes
+  订单导入接口: https://dev-codecamp-admin.codemao.cn/admin/orders/import
+  获取七牛token: https://test-codecamp-app.codemao.cn/app/qiniu/token
+  获取七牛链接接口: https://upload.qiniup.com/
+
+
+test_maolaozu:
+  username: liyixi@codemao.cn
+  password: codemao12345
+
+
+
+

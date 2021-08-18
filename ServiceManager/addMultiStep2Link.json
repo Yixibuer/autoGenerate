@@ -1,0 +1,20 @@
+[{
+    "name":"视频",
+    "type":1,
+    "sort":1,
+    "videoDetail":{"url":"https://dev-cdn-common.codemao.cn/dev/444/161761214472818_p1.m3u8"}},
+    {"name":"kids",
+    "type":4,
+    "sort":2,
+    "kidsDetail":{"bcmUrl":"https://static-k12edu-kids.codemao.cn/5ab99d94-46b8-4a0b-ad92-7837b1689446",
+    "taskUrl":"https://dev-cdn-common.codemao.cn/dev/444/161761216977718_p1.m3u8",
+    "nextStep":2,
+    "taskType":2}},
+    {"name":"交互视频",
+    "type":8,
+    "sort":3,
+    "interactiveVideoDetail":{"exportFileUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176122099351611997328365恐龙大逃亡.itv",
+    "size":18461,
+    "md5":"805b5ad80cf2471575f28396a4a84f7f",
+    "name":"1611997328365恐龙大逃亡.itv"}
+    }]

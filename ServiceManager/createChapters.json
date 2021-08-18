@@ -1,0 +1,12 @@
+[{
+    "id":0,
+    "sortTitle":"第一章",
+    "name":"第一章名称",
+    "sort":1,
+    "backgroundUrl":"https://dev-cdn-common.codemao.cn/dev/442/16176314949342-圆周狸的练习场图标.png"},
+    {"id":0,
+    "sortTitle":"第二章",
+    "name":"这里是大于20个字符的章节名称啊啊啊啊啊",
+    "sort":2,
+    "backgroundUrl":"https://dev-cdn-common.codemao.cn/dev/442/16176315153163-创想乐园图标.png"
+    }]

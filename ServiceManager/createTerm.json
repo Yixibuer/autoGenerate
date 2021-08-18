@@ -1,0 +1,19 @@
+{
+  "skus": [
+    {
+      "skuNumber": "213179030001",
+      "skuName": "\u8fdb\u9636\u8bfe1280\u5143",
+      "originalPrice": 0,
+      "discountedPrice": 0
+    }
+  ],
+  "name": "测试kc",
+  "packageId": 1110,
+  "index": 1,
+  "startTime": "1625229721",
+  "endTime": "1626007321",
+  "termBeginTime": "1626093721",
+  "termFinishTime": "1626957721",
+  "nextTermId": "",
+  "backgroundUrl": "https://dev-cdn-common.codemao.cn/dev/442/16176927824362-\u5706\u5468\u72f8\u7684\u7ec3\u4e60\u573a\u56fe\u6807.png"
+}

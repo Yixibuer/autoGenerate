@@ -1,0 +1,14 @@
+{
+  "namePrefix": "\u6d4b\u8bd51",
+  "lowerLimit": 100,
+  "upperLimit": 200,
+  "warnLimit": 180,
+  "teachers": [
+    2455
+  ],
+  "type": "1",
+  "batch": "1",
+  "performanceGroup": "1",
+  "packageId": "1706",
+  "termId": "2525"
+}

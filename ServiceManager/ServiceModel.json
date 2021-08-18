@@ -1,0 +1,180 @@
+[
+{"createCourse":{
+    "preview_url":"https://dev-cdn-common.codemao.cn/dev/444/16175917718361-奇梦岛生活记图标.png",
+    "name":"test",
+    "type":9,
+    "content_type":1,
+    "lesson_type":2,
+    "description":""
+    }
+},
+{"addLink":[{
+    "id":80082088533,
+    "cardUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176098323151-奇梦岛生活记图标.png",
+    "complete":1,
+    "name":"开始上课",
+    "previewUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176098305001-奇梦岛生活记封面.png",
+    "sort":1,
+    "type":1,
+    "unlockCondition":"AFTER_START_COURSE",
+    "tag":[],
+    "showComment":0,
+    "showCommentStepId":"",
+    "normalIconUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176098338962-圆周狸的练习场图标.png",
+    "grayIconUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176098361962-圆周狸的练习场图标.png",
+    "url":"",
+    "globalTool":{"toolType":4,"openMode":[],"bcmUrl":"","taskUrl":"","taskType":0},"contentPictureList":[]},
+    {"id":80082088534,
+    "cardUrl":"",
+    "complete":0,
+    "name":"视频打卡",
+    "previewUrl":"",
+    "sort":2,
+    "type":3,
+    "unlockCondition":"PER_LINK_COMPLETE",
+    "normalIconUrl":"",
+    "grayIconUrl":"",
+    "url":"",
+    "contentPictureList":[]},
+    {"cardUrl":"",
+    "complete":0,
+    "name":"学习报告",
+    "previewUrl":"",
+    "sort":3,
+    "type":2,
+    "unlockCondition":"AFTER_SUBMIT_WORK",
+    "normalIconUrl":"",
+    "grayIconUrl":"",
+    "url":"",
+    "contentPictureList":[]}
+]
+},
+{"addInteractiveVideo2Link":{
+    "exportFileUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176094775421612181345994c3.itv",
+    "bcmUrl":"",
+    "miaoCode":"",
+    "toolType":4,
+    "openMode":[],
+    "size":7517,
+    "md5":"1400e39b57970684c1a98bbf8e95f5fb",
+    "name":"1612181345994c3.itv",
+    "description":""
+    }
+},
+{"addMultiStep2Link":[{
+    "name":"视频",
+    "type":1,
+    "sort":1,
+    "videoDetail":{"url":"https://dev-cdn-common.codemao.cn/dev/444/161761214472818_p1.m3u8"}},
+    {"name":"kids",
+    "type":4,
+    "sort":2,
+    "kidsDetail":{"bcmUrl":"https://static-k12edu-kids.codemao.cn/5ab99d94-46b8-4a0b-ad92-7837b1689446",
+    "taskUrl":"https://dev-cdn-common.codemao.cn/dev/444/161761216977718_p1.m3u8",
+    "nextStep":2,
+    "taskType":2}},
+    {"name":"交互视频",
+    "type":8,
+    "sort":3,
+    "interactiveVideoDetail":{"exportFileUrl":"https://dev-cdn-common.codemao.cn/dev/444/16176122099351611997328365恐龙大逃亡.itv",
+    "size":18461,
+    "md5":"805b5ad80cf2471575f28396a4a84f7f",
+    "name":"1611997328365恐龙大逃亡.itv"}
+    }]
+},
+{"createPackage":{
+    "name":"test",
+    "contentType":"1",
+    "learningPhase":"0",
+    "platform":"9",
+    "businessType":"1",
+    "attribute":"2"
+    }
+},
+{"createChapters":[{
+    "id":0,
+    "sortTitle":"第一章",
+    "name":"第一章名称",
+    "sort":1,
+    "backgroundUrl":"https://dev-cdn-common.codemao.cn/dev/442/16176314949342-圆周狸的练习场图标.png"},
+    {"id":0,
+    "sortTitle":"第二章",
+    "name":"这里是大于20个字符的章节名称啊啊啊啊啊",
+    "sort":2,
+    "backgroundUrl":"https://dev-cdn-common.codemao.cn/dev/442/16176315153163-创想乐园图标.png"
+    }]
+},
+{"addCourse2Chapter":[2125,2124,2123]
+},
+{"addPackageSKU":{
+    "unlockCondition":"1",
+    "moduleName":"测试编程课",
+    "displayRule":"2",
+    "landingPages":[{"sort":1,"content":"https://dev-cdn-common.codemao.cn/dev/442/16176901141852-圆周狸的练习场封面.png"}],
+    "spuTitle":"测试编程课",
+    "spuNumber":"G213179030"
+    }
+},
+{"packageState1":{}
+},
+{"createTerm":{
+    "skus":[{"skuNumber":"213179030001","skuName":"进阶课1280元","originalPrice":0,"discountedPrice":0}],
+    "name":"第二期",
+    "packageId":1575,
+    "index":2,
+    "startTime":1614528000,
+    "endTime":1617638400,
+    "termBeginTime":1617642000,
+    "termFinishTime":1619712000,
+    "nextTermId":"",
+    "backgroundUrl":"https://dev-cdn-common.codemao.cn/dev/442/16176927824362-圆周狸的练习场图标.png"
+    }
+},
+{"TermUnlockTime":{
+    "attendFrequency":[{"week":1,"hour":0,"minute":0,"courseCount":1}],
+    "attendPlanStartTime":1617694440
+    }
+},
+{"termSchedule":{
+    "learningCycle":1,
+    "attendPlanStartTime":1617694440,
+    "attendFrequency":[
+    {"week":1,"hour":0,"minute":0,"courseCount":1}],
+    "attendPlans":[
+    {"index":1,"courseId":2121,"courseName":"测试","unlockTime":1617638400,"chapterId":534,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":2,"courseId":2122,"courseName":"www","unlockTime":1617642000,"chapterId":534,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":3,"courseId":2125,"courseName":"test","unlockTime":1617724800,"chapterId":535,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":4,"courseId":2124,"courseName":"hhh","unlockTime":1620316800,"chapterId":535,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":5,"courseId":2123,"courseName":"hhh","unlockTime":1620576000,"chapterId":535,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":6,"courseId":2125,"courseName":"test","unlockTime":1621180800,"chapterId":536,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":7,"courseId":2124,"courseName":"hhh","unlockTime":1621785600,"chapterId":536,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1},
+    {"index":8,"courseId":2123,"courseName":"hhh","unlockTime":1622390400,"chapterId":536,"freeState":0,"unlockCondition":"0","submitBcmWork":1,"submitVideoWork":1,"canUpdateFlag":1}]}
+},
+{"createClass":{
+    "namePrefix":"测试1",
+    "lowerLimit":100,
+    "upperLimit":200,
+    "warnLimit":180,
+    "teachers":[2455],
+    "type":"1",
+    "batch":"1",
+    "performanceGroup":"1",
+    "packageId":1575,
+    "termId":"2357"
+    }
+},
+{"orderImport":[
+    {
+        "phone_number": 15641054931,
+        "price": "0.01",
+        "child_name": "测试",
+        "package_id": 1575,
+        "term_id": 2357,
+        "class_id": 8033,
+        "primary_channel_param": "h5jiulianjie",
+        "secondary_channel_param": "jiushuju",
+        "tertiary_channel_param": "jilu"
+    }
+]
+}
+]
